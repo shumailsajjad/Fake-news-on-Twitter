@@ -54,6 +54,6 @@ Subsequently, I formulated research questions based on the data and conducted st
 Files:
 1) Final Dataset - Descriptive statistics.ipynb
 
-## Project Objective
+## Project Outcome
 
-Overall, this project sheds light on how political parties leverage social media platforms, particularly **Twitter**, to perpetuate **polarization** and disseminate **fake news**. The analysis encompasses various aspects, including URL sharing, retweets, tweets, and fact-checking sources.
+Overall, this project shed light on how political parties leverage social media platforms, particularly **Twitter**, to perpetuate **polarization** and disseminate **fake news**. The analysis encompasses various aspects, including URL sharing, retweets, tweets, and fact-checking sources.
